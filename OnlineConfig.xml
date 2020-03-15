@@ -1,0 +1,14 @@
+{
+    "s_load_admob_first":"true",
+    "s_had_ads_when_play_video":"true",
+    "s_had_admob_banner":"true",
+    "s_had_admob_interstitial":"true",
+    "s_had_admob_native":"false",
+    "banner_ad_unit_id":"Y2EtYXBwLXB1Yi0zNzU5MDU3ODIzMTM2NTIyLzgzNTY0Mzg2OTE=",     
+    "interstitial_full_screen_id":"Y2EtYXBwLXB1Yi0zNzU5MDU3ODIzMTM2NTIyLzk4MzMxNzE4OTM=",
+    "m_interstitial_frame_show":"15",
+    "s_had_fan_banner":"true",
+    "s_had_fan_interstitial":"true",
+    "fan_banner_ad_unit_id":"1155076377926842_1155077031260110",
+    "fan_interstitial_full_screen_id":"1155076377926842_1155077161260097"
+}
